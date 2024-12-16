@@ -17,7 +17,7 @@
     "autotyping": false,
     "autoreadpc": false,
     "autoreadgc": false,
-    "welcome": "Image",
+    "welcome": "text",
     "first": {
       "energy": 0,
       "flow": 1,

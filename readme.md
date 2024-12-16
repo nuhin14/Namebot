@@ -29,7 +29,7 @@ apt install git
 5. Cloning repo
 
 ```bash
-git clone https://github.com/nuhin14/Bot
+git clone https://github.com/nuhin14/Namebot
 ```
 
 ## Cara Pasang
@@ -39,7 +39,7 @@ git clone https://github.com/nuhin14/Bot
 1. Saat Anda mendapatkan kode sumber ini, pastikan untuk menginstal semua modul yang diperlukan dengan menjalankan perintah ini di terminal atau command prompt:
 
 ```bash
-cd Bot
+cd Namebot
 ```
 ```bash
 npm install

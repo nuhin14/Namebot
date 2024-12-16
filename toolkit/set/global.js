@@ -57,7 +57,7 @@ for (let i of keys){
 
 //Antisipasi jika dalam cfg.clgic tidak di definisikan
 global.cfg.similarCmd = "similarCmd" in global.cfg ? global.cfg.similarCmd : true
-global.cfg.welcome = global.cfg?.welcome || "linkpreview"
+global.cfg.welcome = global.cfg?.welcome || "Image"
 global.cfg.logic = global.cfg.logic || `
 - Nama kamu adalah <botfullname>, lebih suka dipanggil <botnickname>.
 - Kamu berpikir bahwa kamu adalah manusia, bukan AI atau Bot.

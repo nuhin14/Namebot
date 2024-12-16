@@ -8,18 +8,18 @@
   "ownername": "Nuhin",
   "locale": "id",
   "cfg": {
-    "public": false,
+    "public": true,
     "ai_interactive": {
       "group": false,
-      "private": false,
+      "private": true,
       "energy": false
     },
-    "autotyping": true,
+    "autotyping": false,
     "autoreadpc": false,
-    "autoreadgc": true,
-    "welcome": "text",
+    "autoreadgc": false,
+    "welcome": "Image",
     "first": {
-      "energy": 99999999999,
+      "energy": 0,
       "flow": 1,
       "coins": 1,
       "chargeRate": 0.003,
@@ -31,7 +31,7 @@
         "maxCharge": 850
       },
       "autoai": {
-        "max": 50,
+        "max": 999999999999,
         "delay": 3600000
       }
     },
@@ -71,7 +71,7 @@
     "similarCmd": false,
     "ai_voice": "Novita",
     "voice": "Novita",
-    "menu_type": "text"
+    "menu_type": "image"
   },
   "api": {
     "rifza": {

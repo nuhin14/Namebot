@@ -11,7 +11,7 @@
     "public": true,
     "ai_interactive": {
       "group": false,
-      "private": true,
+      "private": false,
       "energy": false
     },
     "autotyping": false,
@@ -19,7 +19,7 @@
     "autoreadgc": false,
     "welcome": "text",
     "first": {
-      "energy": 0,
+      "energy": 999999999999,
       "flow": 1,
       "coins": 1,
       "chargeRate": 0.003,
